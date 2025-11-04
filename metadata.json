@@ -1,0 +1,5 @@
+{
+  "name": "Avanceret Lagersystem",
+  "description": "An advanced inventory system for managing products, serial numbers, and custom PC builds, leveraging AI for smart suggestions.",
+  "requestFramePermissions": []
+}
